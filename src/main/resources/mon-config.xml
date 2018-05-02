@@ -1,0 +1,6 @@
+<configuration>
+  <property>
+    <name>hbase.jmx.urls</name>
+    <value>http://datatub2:16030/jmx</value>
+  </property>
+</configuration>
