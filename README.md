@@ -1,2 +1,2 @@
 # HbaseMonitor
-hbaseµÄÖ¸±ê¼à¿Ø
+hbaseçš„æŒ‡æ ‡ç›‘æ§
